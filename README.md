@@ -3,10 +3,10 @@
 ## Описание (Description)
 
 Русский:  
-Пинг-понг — это простая 2D-игра, созданная с использованием библиотеки Arcade на Python. Мяч движется по экрану и отскакивает от стен. Это мой проект для изучения Arcade и создания игр. В будущем я добавлю ракетку, управление и счёт.
+Пинг-понг — это простая 2D-игра, созданная с использованием библиотеки Arcade на Python. Мяч движется по экрану и отскакивает от стен . Это мой проект для изучения Arcade и создания игр. upd: добавил ракету и на половину укпрвления также сделал что мячь отбиваеться от всех стен.
 
 English:  
-Ping-Pong is a simple 2D game made with the Arcade library in Python. A ball moves across the screen and bounces off walls. This is my project to learn Arcade and game development. In the future, I will add a paddle, controls, and scoring.
+Ping-Pong is a simple 2D game made with the Arcade library in Python. A ball moves across the screen and bounces off walls. This is my project to learn Arcade and game development. In the future,upd: added a rocket and on half of the controls also made the ball bounce off all the walls.
 
 ## Как запустить (How to Run)
 
@@ -27,14 +27,14 @@ Python 3.6+
 Arcade (pip install arcade)
 
 Планы развития (Future Plans)
-Добавить ракетку для отбивания мяча.
-Добавить управление ракеткой (клавиши или мышь).
+Добавить ракетку для отбивания мяча. - сделал
+Добавить управление ракеткой (клавиши или мышь). - на половину сделал
 Ввести счёт и условия победы/проигрыша.
 Улучшить графику (например, добавить фон и звуки).
 
 English:
-Add a paddle to hit the ball.
-Add paddle controls (keyboard or mouse).
+Add a paddle to hit the ball. - did
+Add paddle controls (keyboard or mouse). - by half did
 Include scoring and win/lose conditions.
 Improve graphics (e.g., add background and sounds).
 
